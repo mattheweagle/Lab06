@@ -1,0 +1,3 @@
+removeFront() and removeBack() do not remove values
+isEmpty() does not identify non-empty list
+addBack() adds values to front of list
